@@ -12,3 +12,6 @@ ds(x)
 \description{
 Creates histogram. boxplot, and numeric summary
 }
+\examples{
+ds(rnorm(1000))
+}
